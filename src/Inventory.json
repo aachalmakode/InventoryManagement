@@ -1,0 +1,24 @@
+{
+"Inventory" : [
+
+  {
+    "name": "IndiaGate",
+    "weight": 20,
+    "pricePERKg" : 30,
+    "Type" : "Rice"
+  },
+
+  {
+    "name": "Shakti",
+    "weight": 20,
+    "pricePERKg" : 30,
+    "Type" : "Wheat"
+  },
+  {
+    "name": "SunBrand",
+    "weight": 20,
+    "pricePERKg" : 100,
+    "Type" : "Pulses",
+  }
+]
+}
